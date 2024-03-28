@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HueletayoApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sections">Secciones</string>
+    <string name="courses">Cursos</string>
+    <string name="profile">Perfil</string>
+
+</resources>
