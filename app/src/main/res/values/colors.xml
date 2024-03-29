@@ -6,9 +6,9 @@
     <color name="black_alpha">#000000</color>
     <color name="primary">#2C2C2C</color>
     <color name="primaryDark">#272727</color>
-    <color name="secondary">#FF9800</color>
+    <color name="secondary">#03A9F4</color>
     <color name="accent">#FFFFFF</color>
-    <color name="gold">#FFC107</color>
+    <color name="gold">#00BCD4</color>
 
     <color name="red">#FF0000</color>
 </resources>

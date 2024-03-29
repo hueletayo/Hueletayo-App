@@ -2,8 +2,21 @@
     <string name="app_name">HueletayoApp</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <!--BottomBar-->
     <string name="sections">Secciones</string>
     <string name="courses">Cursos</string>
     <string name="profile">Perfil</string>
+
+    <!--Sections-->
+    <string name="lvl_1">Nivel 1</string>
+    <string name="lvl_2">Nivel 2</string>
+    <string name="lvl_3">Nivel 3</string>
+    <string name="lvl_4">Nivel 4</string>
+    <string name="lvl_5">Nivel 5</string>
+    <string name="lvl_6">Nivel 6</string>
+    <string name="lvl_7">Nivel 7</string>
+    <string name="lvl_8">Nivel 8</string>
+
+
 
 </resources>

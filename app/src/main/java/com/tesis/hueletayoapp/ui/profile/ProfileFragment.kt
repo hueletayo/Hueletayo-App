@@ -8,7 +8,9 @@ import androidx.fragment.app.Fragment
 import com.tesis.hueletayoapp.R
 import com.tesis.hueletayoapp.databinding.FragmentProfileBinding
 import com.tesis.hueletayoapp.databinding.FragmentSectionsBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class ProfileFragment : Fragment() {
 
     private var _binding: FragmentProfileBinding? = null
